@@ -3,7 +3,7 @@ import { Alert, Col, Container, Row } from "react-bootstrap";
 const Welcome = () => (
   <>
     <Alert variant="info" className="d-flex justify-content-center">
-      <Alert.Link href="#">link--</Alert.Link> Give it a click if you like.
+      <Alert.Link href="#"></Alert.Link> Give it a click if you like.
     </Alert>
     <Container>
       <Row>
